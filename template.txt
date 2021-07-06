@@ -1,0 +1,2 @@
+Hey there! This is test file created in KDE Neon Linux distro.
+I am trying to learn linux commands & CLI
