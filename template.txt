@@ -1,0 +1,2 @@
+Hey there! This is test file created in KDE Neon Linux distro.
+Testing CLI in KDE Neon
