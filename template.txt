@@ -1,3 +1,2 @@
 Hey there! This is test file created in KDE Neon Linux distro.
-I am trying to learn linux CLI
-Testing commit
+Testing CLI in KDE Neon
